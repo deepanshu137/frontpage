@@ -1,0 +1,47 @@
+.level1{
+	background-color:  #8FBC8F;
+	
+}
+p{
+	font-size: 30px;
+}
+h1{
+	text-align: center;
+	font-style: italic;
+}
+body{
+	background-color: grey;
+
+}
+img{
+	margin-left: 440px;
+}
+h2{
+	text-align: center;
+
+}
+footer{
+	text-align: center;
+	font-size: 50px;
+}
+a{
+	display: block;
+	font font-weight: bold;
+	color: #ffffff;
+	background: #0006cc;
+	width: 200px;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+a:hover{
+	background: #b3b3b3;  /*here hover focus active are used for effect on link when we touch on it*/
+	color: #0006cc;
+}
+
+}
+a:active{
+	border: 3px solid #000000;
+}
